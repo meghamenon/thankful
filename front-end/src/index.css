@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #FFE237;
+}
+
+.title-div{
+	margin-top: 150px;
+}
+
+.title{
+	text-align: center;
+	font-size: 50px;
+	font-family: Courier;
+}
+
+.form{
+	text-align: center;
+	font-size: 15px;
+	font-family: Courier;
+}
+
+.field {
+	border-radius: 1rem;
+	outline: none;
+	text-indent: 10px;
+}
+
+.button{
+	float: right;
+	margin-top: -130px;
+	margin-right: 20px;
+
+}
